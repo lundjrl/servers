@@ -1,0 +1,12 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "description": "A simple node server running http",
+  "main": "server.js",
+  "type": "module",
+  "author": "lundjrl",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
